@@ -46,9 +46,3 @@ This project is licensed under the MIT License. See the LICENSE file for details
 # Acknowledgements
 Special thanks to contributers: 
 Inspired by CodeBasics.
-
-# Sample Output
-[Selecting an image for verifying the output](https://github.com/user-attachments/assets/a44b29dc-fbca-4857-88b9-862e37430474)
-
-[Plant species name identified](https://github.com/user-attachments/assets/b6c26e9c-a2d3-4883-87b4-04d54956840c)
-
