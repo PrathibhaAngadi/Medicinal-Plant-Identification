@@ -16,7 +16,8 @@ requirements.txt: Lists required Python packages for the project.
 # Output
 Plant Name: Provides the name of the medicinal plant species identified from the input image.
 Model Accuracy: Displays the accuracy metrics of the trained model.
-https://github.com/PrathibhaAngadi/Medicinal-Plant-Identification/blob/a5307eef0ef14142833c9d065846cf213bc2e3d9/Output1.jpg
+![image alt](https://github.com/PrathibhaAngadi/Medicinal-Plant-Identification/blob/a5307eef0ef14142833c9d065846cf213bc2e3d9/Output1.jpg)
+![image alt](https://github.com/PrathibhaAngadi/Medicinal-Plant-Identification/blob/e05811546972c34638601a3f5d1da702c830ce09/Output2.jpg)
 
 
 # Dataset Used
