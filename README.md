@@ -20,6 +20,7 @@ Model Accuracy: Displays the accuracy metrics of the trained model.
 # Dataset Used
 Source: [[Dataset source or link](https://data.mendeley.com/datasets/nnytj2v3n5/1)]
 Description: Contains images of medicinal plants used to train and evaluate the model.
+![image alt](https://github.com/PrathibhaAngadi/Medicinal-Plant-Identification/blob/bf5a07534930d975e1eb14b0d6550e02225c1de3/Dataset.jpg)
 
 # Future Scope
 Deployment: Develop a web or mobile application for real-time plant identification, allowing users to upload images and receive instant results.
