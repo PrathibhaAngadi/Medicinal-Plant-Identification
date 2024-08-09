@@ -44,5 +44,6 @@ Open a pull request.
 This project is licensed under the MIT License. See the LICENSE file for details.
 
 # Acknowledgements
-Special thanks to contributers: 
+Special thanks to contributers: Annapurna Kalmath 
+                                Divya Bhagwat
 Inspired by CodeBasics.
